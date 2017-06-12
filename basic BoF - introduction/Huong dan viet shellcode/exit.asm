@@ -1,0 +1,5 @@
+BITS 32
+mov ebx, 0x3
+mov eax, 0x1
+int 0x80
+
